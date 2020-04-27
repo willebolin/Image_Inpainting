@@ -8,3 +8,6 @@ The method we propose is comnbination of a Generative Adversarial Network (GAN) 
 
 The full report can be found here: http://cs230.stanford.edu/projects_winter_2019/reports/15812108.pdf
 A poster of the project can be found here: http://cs230.stanford.edu/projects_winter_2019/posters/15812309.pdf
+
+
+![Alt text](Poster.png "Poster" | width=10)
