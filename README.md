@@ -1,7 +1,7 @@
 # Image Inpainting 
 This repository is a copy of the original repository initially created by Nico Jersch (/njersch @ GitHub). The project was created for the Stanford course CS230, "Deep Learning" by Nico Jersch, Justin Lundgren, and me (Wilhelm Bolin). For this project, we built an agent who can repaint missing parts of pictures. 
 
-A pdf of the report can be found here: http://cs230.stanford.edu/projects_winter_2019/reports/15812108.pdf
+A pdf of the report can be found here: http://cs230.stanford.edu/projects_winter_2019/reports/15812108.pdf  
 A poster of the project can be found here: http://cs230.stanford.edu/projects_winter_2019/posters/15812309.pdf
 
 # Abstract 
