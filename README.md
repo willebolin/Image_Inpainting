@@ -10,4 +10,4 @@ The full report can be found here: http://cs230.stanford.edu/projects_winter_201
 A poster of the project can be found here: http://cs230.stanford.edu/projects_winter_2019/posters/15812309.pdf
 
 
-![Alt text](Poster.png "Poster" | width=10)
+![Alt text](Poster.png "Poster")
